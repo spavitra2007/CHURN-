@@ -11,6 +11,9 @@ After completing preprocessing and validation steps, the final cleaned CSV was g
 - File: `data/ChurnZero_dataset_v1.csv`
 - Description: Original unprocessed churn dataset
 
-### 🔹 Processed Data
+### 🔹 pre-Processed Data
 - File: `data/customer_full_backup.csv`
 - Description: Cleaned dataset after preprocessing, feature engineering, and leakage removal
+- ### Final data
+- file-  data/filename.csv
+- Description : final dataset with 38 features and model training ready dataset
